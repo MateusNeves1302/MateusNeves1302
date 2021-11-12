@@ -21,7 +21,7 @@
   
 <h2>Tecnologias que pretendo Estudar: </h2>
 
-<img align="center" alt="Mateus-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Mateus-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="ReactJs">
 
 ##
 
